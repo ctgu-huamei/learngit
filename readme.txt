@@ -4,8 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git has a workspace.
 Creating a new branch is quick.
-<<<<<<< HEAD
 Creating a new branch is quick & simple.
-=======
-Creatig a new branch is quick and simple.
->>>>>>> feature
+
